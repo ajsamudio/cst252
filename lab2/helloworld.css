@@ -1,0 +1,13 @@
+h1	{
+	color:red;
+	font-size: 48px;
+}
+
+p{
+	text-indent: 20px;
+	font-family: cursive;
+}
+
+#fancy{
+border-style: dotted;
+}
