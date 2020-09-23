@@ -1,0 +1,11 @@
+.container{
+  padding: 20px;
+background-color: lightblue;
+}
+.centeredText{
+  text-align: center;
+}
+
+li{
+  list-style-type: none;
+}
