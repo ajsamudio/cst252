@@ -11,10 +11,9 @@
 
 
  function buttonPress() {
-
    var inputText = scan.value;
 
-   text.innerText = "Hello, " + inputText;
+   text.innerText = "Hello, " + inputText.split('').sort().reverse().join('');
 
    // var nameArray = scan.sort().reverse();
    // text.innerText = "Hello, " + nameArray;
