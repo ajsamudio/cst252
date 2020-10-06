@@ -1,3 +1,16 @@
 #myButton{
    size: 50px;
 }
+.container{
+  background-image: url("../img/ballbeach.gif");
+}
+.box{
+  background-color: lightgray;
+  opacity: 0.9;
+  box-shadow: 5px 10px 18px #888888;
+  padding: 25px;
+  margin: 100px;
+}
+p{
+  opacity: 1;
+}
