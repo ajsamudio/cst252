@@ -13,17 +13,17 @@ function sortingHat() {
   len = inputText.length;
   mod = len % 4;
   console.log(mod);
-    if (mod==4) {
-         text.innerText = "You're in Gryffindor";
-    }
-    else if (mod==3){
-         text.innerText = "You're in Ravenclaw";
+    if (mod==3) {
+         text.innerText = "Tacos";
     }
     else if (mod==2){
-         text.innerText = "You're in Slytherin";
+         text.innerText = "Rice plate";
+    }
+    else if (mod==1){
+         text.innerText = "Diner";
     }
     else{
-         text.innerText = "You're in Hufflepuff";
+         text.innerText = "Fast Food";
     }
 
 }
