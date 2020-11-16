@@ -7,7 +7,7 @@
  endpoint="https://www.boredapi.com/api/activity/"
 
  // add event listener
- $("button").click(function(){
+ $('button').click(function(){
   // alert("pressed");
   $.ajax({
       // The URL for the request
